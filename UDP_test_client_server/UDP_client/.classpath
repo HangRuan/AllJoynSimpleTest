@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="/root/workspace/VideoTransmissionP2P/efflux RTP/AllNecessayLib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/root/workspace/VideoTransmissionP2P/efflux RTP/AllNecessayLib/netty-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="/root/workspace/VideoTransmissionP2P/efflux RTP/AllNecessayLib/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/root/workspace/VideoTransmissionP2P/efflux RTP/AllNecessayLib/slf4j-simple-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
